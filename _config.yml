@@ -52,13 +52,13 @@ youtube_username: Pong Sweet
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/my photo.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/my major.jpg)
+  # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+    # - Lists
+    # - Tables
+    # - <a href="google.com">Links</a>
+    
+    - Major ![alt text](/images/my major.jpg)
 
 content:
   - title: Projects # Title for the section
@@ -67,9 +67,9 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        title: My github resume (Fork by sproogen)
+        link: https://github.com/MIN9MIN/MIN9MIN.github.io
+        link_text: Go to Github
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
