@@ -80,7 +80,7 @@ content:
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          A modern static resume template and theme. Powered by Jekyll and GitHub pages.
   - title: Experience
     layout: list
     content:
