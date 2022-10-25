@@ -85,12 +85,12 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Hallym Univ.
+        sub_title: Student
+        caption: March 2017 ~ present
+        link: https://www.hallym.ac.kr/
         quote: >
-          Short description of the company (optional)
+          This is my school in Kangwondo, Chuncheon
         description: | # this will include new lines to allow paragraphs
           Description of role
   - title: Education
