@@ -51,10 +51,10 @@ youtube_username: Pong Sweet
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/my photo.jpg
 about_content: | # this will include new lines to allow paragraphs
-  <p> 안녕하세요 <mark>미래의 개발자</mark>가 되기 위해 노력하는 한림대학교 재학생 <highlight>강민구</highlight>입니다. </p>
+  <p> 안녕하세요 <mark>미래의 개발자</mark>가 되기 위해 노력하는 한림대학교 재학생 <b>강민구</b>입니다. </p>
     - 학교 : 한림대학교 
     - 학년 : 3학년
-    - 전공 ![alt text](/images/my major.jpg)
+    - 전공 : 빅데이터 학과 ![alt text](/images/my major.jpg)
 
 content:
   - title: Projects # Title for the section
@@ -76,6 +76,7 @@ content:
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
+          ![alt text](/images/깃허브.PNG)
           A modern static resume template and theme. Powered by Jekyll and GitHub pages.
   - title: Experience
     layout: list
