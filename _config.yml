@@ -106,7 +106,8 @@ content:
         quote: >
           백준 알고리즘을 통해서 프로그래밍 실력을 높이고 개발을 위해 필요한 코딩감각을 잃지 않도록 꾸준히 하는 중입니다.
         description: | # this will include new lines to allow paragraphs
-          ![alt text](/images/백준.png)
+          - 맞은 문제 : 1000 1001 2557 10171 10172 10718 10998
+          - 시도했지만 틀린 문제 : 1008
 
 # Footer
 footer_show_references: true
