@@ -10,7 +10,6 @@ name: 강민구
 title: 학생
 email: kng2255@gmail.com
 # email_title: Email (Email title override)
-# phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
 website: 34.64.248.96:8000
 # website_title: Web (Website title override)
@@ -42,7 +41,7 @@ youtube_username: /channel/UC8U7EJDsktYTFcJZUtkeKcA
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/my photo.jpg
 about_content: | # this will include new lines to allow paragraphs
-     안녕하세요. :raising_hand: 미래의 개발자가 되기 위해서 하루하루 열심히 보내는 한림대학교 3학년 재학생 강민구입니다.
+     안녕하세요. 미래의 개발자가 되기 위해서 하루하루 열심히 보내는 한림대학교 3학년 재학생 강민구입니다.
     
     - 학교 : 한림대학교 ![alt text](https://www.hallym.ac.kr/.resources/hallym_univ_theme/hallym/ko/img/abouthallym/symbol-ui-mark.png)
     
