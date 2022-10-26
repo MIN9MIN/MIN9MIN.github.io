@@ -28,7 +28,7 @@ github_username:  MIN9MIN
 #linkedin_username: jekyll
 #xing_username: jekyll
 #pinterest_username: jekyll
-youtube_username: /channel/UC8U7EJDsktYTFcJZUtkeKcA
+youtube_username: Sweet Pong
 #orcid_username: 0000-0000-0000-0000
 #googlescholar_username: D847cGsAAAAJ
 
@@ -99,7 +99,7 @@ content:
     layout: list
     content:
       - layout: left
-        title: 백준 알고리즘 문제풀기 
+        title: 백준 알고리즘 문제풀기 :satisfied:
         sub_title: 매주 1~2개 진행하는 알고리즘 문제풀이
         caption: Date Range [October 2022 ~ present]
         link: https://www.acmicpc.net/ 
