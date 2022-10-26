@@ -51,7 +51,7 @@ youtube_username: https://www.youtube.com/channel/UC8U7EJDsktYTFcJZUtkeKcA
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/my photo.jpg
 about_content: | # this will include new lines to allow paragraphs
-  <p> 안녕하세요 :raising_hand: <mark>미래의 개발자</mark>가 되기 위해 노력하는 한림대학교 재학생 <b>강민구</b>입니다. </p>
+  <p> 안녕하세요 <mark>미래의 개발자</mark>가 되기 위해 노력하는 한림대학교 재학생 <b>강민구</b>입니다. </p>
     - School : 한림대학교 
     - Grade : 3학년
     - Major ![alt text](/images/my major.jpg)
@@ -100,7 +100,7 @@ content:
     content:
       - layout: left
         title: 백준 알고리즘 문제풀기 
-        sub_title: 매주 1~2개 진행하는 알고리즘 문제풀이 :heartpulse:
+        sub_title: 매주 1~2개 진행하는 알고리즘 문제풀이
         caption: Date Range [October 2022 ~ present]
         link: https://www.acmicpc.net/ 
         quote: >
