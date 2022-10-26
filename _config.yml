@@ -89,7 +89,7 @@ content:
         quote: >
           This is my school in Kangwondo, Chuncheon
         description: | # this will include new lines to allow paragraphs
-          Description of role  ![alt text](/images/다운로드.jfif)
+          Description of role  
    
    - title: My Interest
      layout: list
@@ -101,7 +101,7 @@ content:
       link: https://www.acmicpc.net/
       quote: >
         취업을 준비하기 위함과 프로그래밍에서 중요한 알고리즘을 잊어버리지 않기 위해서 주에 1~2개는 계속해서 공부하는 중입니다.
-      description:
+      description: | # this will include new lines to allow paragraphs
         내 제출 현황
    
 # Footer
