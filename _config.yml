@@ -51,11 +51,13 @@ youtube_username: sweetpong
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/my photo.jpg
 about_content: | # this will include new lines to allow paragraphs
-     안녕하세요. 미래의 개발자가 되기 위해서 하루하루 열심히 보내는 한림대학교 3학년 재학생 강민구입니다.
-    
-    - 학교 : 한림대학교
-    
-    - 전공 : 빅데이터학과 ![alt text](/images/my major.jpg)
+  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  
+  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+    - Lists
+    - Tables
+    - <a href="google.com">Links</a>
+    - Images ![alt text](/images/my major.jpg)
 
 content:
   - title: Projects # Title for the section
