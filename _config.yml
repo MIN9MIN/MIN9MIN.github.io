@@ -91,19 +91,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description of role  
    
-   - title: My Interest
-     layout: list
-     content:
-      - layout: right
-      title : 백준 알고리즘 공부하기
-      sub_title: 매주 1~2개씩 공부
-      caption: October 2022 ~ present
-      link: https://www.acmicpc.net/
-      quote: >
-        취업을 준비하기 위함과 프로그래밍에서 중요한 알고리즘을 잊어버리지 않기 위해서 주에 1~2개는 계속해서 공부하는 중입니다.
-      description: | # this will include new lines to allow paragraphs
-        내 제출 현황
-   
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
