@@ -10,7 +10,7 @@ name: 강민구
 title: 학생
 email: kng2255@gmail.com
 # email_title: Email (Email title override)
-# phone_title: Phone (Phone title override)
+phone_title: 010-1234-5678 ( My Private Information )
 website: 34.64.248.96:8000
 # website_title: Web (Website title override)
 
@@ -74,7 +74,7 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          오프소스SW개발도구활용에서 배운 GIT을 이용한 활동에서 RESUME를 Fork하여 활용해보는 Project
+          오픈소스SW개발도구활용에서 배운 GIT을 이용한 활동에서 RESUME를 Fork하여 활용해보는 Project
         description: | # this will include new lines to allow paragraphs
           ![alt text](/images/깃허브.PNG)
           A modern static resume template and theme. Powered by Jekyll and GitHub pages.
@@ -84,13 +84,25 @@ content:
       - layout: right
         title: Hallym Univ.
         sub_title: Student
-        caption: March 2017 ~ present
+        caption: Date Range [March 2017 ~ present]
         link: https://www.hallym.ac.kr/
         quote: >
           This is my school in Kangwondo, Chuncheon
         description: | # this will include new lines to allow paragraphs
-          Description of role  
-   
+          Description of role ![alt text](/images/다운로드.jfif)
+ 
+  - title: My Interest
+    layout: list
+    content:
+      - layout: top-right
+        title: 백준 알고리즘 문제풀기
+        sub_title: 매주 1~2개 진행하는 알고리즘 문제풀이
+        caption: Date Range [October 2022 ~ present]
+        quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification ![alt text](/images/baekjoon.png) 
+
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
