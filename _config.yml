@@ -98,8 +98,9 @@ content:
         title: 백준 알고리즘 문제풀기
         sub_title: 매주 1~2개 진행하는 알고리즘 문제풀이
         caption: Date Range [October 2022 ~ present]
+        link: https://www.acmicpc.net/
         quote: >
-          Short institution or course description (optional)
+          백준 알고리즘을 통해서 프로그래밍 실력을 높이고 개발을 위해 필요한 코딩감각을 잃지 않도록 꾸준히 하는 중입니다.
         description: | # this will include new lines to allow paragraphs
           Description of qualification ![initial](/images/백준.png) 
 
