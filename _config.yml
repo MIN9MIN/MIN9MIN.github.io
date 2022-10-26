@@ -99,8 +99,8 @@ content:
     layout: list
     content:
       - layout: left
-        title: 백준 알고리즘 문제풀기
-        sub_title: 매주 1~2개 진행하는 알고리즘 문제풀이
+        title: 백준 알고리즘 문제풀기 
+        sub_title: 매주 1~2개 진행하는 알고리즘 문제풀이 :heartpulse:
         caption: Date Range [October 2022 ~ present]
         link: https://www.acmicpc.net/ 
         quote: >
