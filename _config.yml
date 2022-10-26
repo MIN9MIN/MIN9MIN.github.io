@@ -51,9 +51,9 @@ youtube_username: /channel/UC8U7EJDsktYTFcJZUtkeKcA
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/my photo.jpg
 about_content: | # this will include new lines to allow paragraphs
-  안녕하세요 :smiley: <mark>미래의 개발자</mark>가 되기 위해 노력하는 한림대학교 재학생 <highlight>강민구</highlight>입니다. 
-    - Lists
-    - Tables
+  <p> 안녕하세요 <mark>미래의 개발자</mark>가 되기 위해 노력하는 한림대학교 재학생 <highlight>강민구</highlight>입니다. </p>
+    - 학교 : 한림대학교 
+    - 학년 : 3학년
     - 전공 ![alt text](/images/my major.jpg)
 
 content:
