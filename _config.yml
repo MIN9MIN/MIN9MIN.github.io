@@ -16,22 +16,12 @@ website: 34.64.248.96:8000
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
-# twitter_username: 
 github_username:  MIN9MIN
-# stackoverflow_username: "00000001"
-# dribbble_username: 
-# facebook_username: 
-# flickr_username: jekyll
-# instagram_username: jekyll
-# linkedin_username: jekyll
-# xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: Pong Sweet
-# orcid_username: 0000-0000-0000-0000
-# googlescholar_username: D847cGsAAAAJ
+youtube_username: /channel/UC8U7EJDsktYTFcJZUtkeKcA
+
 
 # Additional icon links
 #additional_links:
@@ -52,13 +42,11 @@ youtube_username: Pong Sweet
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/my photo.jpg
 about_content: | # this will include new lines to allow paragraphs
-   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-     - Lists
-     - Tables
-     - <a href="google.com">Links</a>
+     안녕하세요. :raising_hand: 미래의 개발자가 되기 위해서 하루하루 열심히 보내는 한림대학교 3학년 재학생 강민구입니다.
     
-    - Major ![alt text](/images/my major.jpg)
+    - 학교 : 한림대학교 ![alt text](https://www.hallym.ac.kr/.resources/hallym_univ_theme/hallym/ko/img/abouthallym/symbol-ui-mark.png)
+    
+    - 전공 : 빅데이터학과 ![alt text](/images/my major.jpg)
 
 content:
   - title: Projects # Title for the section
