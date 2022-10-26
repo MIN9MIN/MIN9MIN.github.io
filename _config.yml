@@ -18,9 +18,19 @@ website: 34.64.248.96:8000
 darkmode: false
 
 # Social links
+# twitter_username: jekyllrb
 github_username:  MIN9MIN
-youtube_username: /channel/UC8U7EJDsktYTFcJZUtkeKcA
-
+#stackoverflow_username: "00000001"
+#dribbble_username: jekyll
+#facebook_username: jekyll
+#flickr_username: jekyll
+#instagram_username: jekyll
+#linkedin_username: jekyll
+#xing_username: jekyll
+#pinterest_username: jekyll
+youtube_username: sweetpong
+#orcid_username: 0000-0000-0000-0000
+#googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
 #additional_links:
@@ -43,7 +53,7 @@ about_profile_image: images/my photo.jpg
 about_content: | # this will include new lines to allow paragraphs
      안녕하세요. 미래의 개발자가 되기 위해서 하루하루 열심히 보내는 한림대학교 3학년 재학생 강민구입니다.
     
-    - 학교 : 한림대학교 ![alt text](https://www.hallym.ac.kr/.resources/hallym_univ_theme/hallym/ko/img/abouthallym/symbol-ui-mark.png)
+    - 학교 : 한림대학교
     
     - 전공 : 빅데이터학과 ![alt text](/images/my major.jpg)
 
