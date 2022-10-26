@@ -89,7 +89,7 @@ content:
         quote: >
           This is my school in Kangwondo, Chuncheon
         description: | # this will include new lines to allow paragraphs
-          Description of role <img src = /images/다운로드.> 
+          ![initial](/images/다운로드.jfif)
  
   - title: My Interest
     layout: list
@@ -101,7 +101,7 @@ content:
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of qualification ![initial](/images/baekjoon.png) 
+          Description of qualification ![initial](/images/백준.png) 
 
 # Footer
 footer_show_references: true
