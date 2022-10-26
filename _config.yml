@@ -51,7 +51,7 @@ youtube_username: Pong Sweet
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/my photo.jpg
 about_content: | # this will include new lines to allow paragraphs
-  <p> 안녕하세요 <mark>미래의 개발자</mark>가 되기 위해 노력하는 한림대학교 재학생 <b>강민구</b>입니다. </p>
+  <p> 안녕하세요 :raising_hand: <mark>미래의 개발자</mark>가 되기 위해 노력하는 한림대학교 재학생 <b>강민구</b>입니다. </p>
     - School : 한림대학교 
     - Grade : 3학년
     - Major ![alt text](/images/my major.jpg)
